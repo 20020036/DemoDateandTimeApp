@@ -49,8 +49,6 @@ public class MainActivity extends AppCompatActivity {
                 tp.setCurrentHour(0);
                 tp.setCurrentMinute(0);
                 dp.updateDate(2021, 0, 1);
-               
-
             }
         });
     }
